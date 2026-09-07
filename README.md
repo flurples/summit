@@ -22,6 +22,11 @@ build video: https://youtu.be/qhuydgdiscI
 - 6x m3 x 6mm flat head hex screws
 - 4x 7.9mm diameter rubber feet (I use 3m sj5302)
 
+## build notes
+- all holes should be tapped with m3 threads.
+- weight-internal and weight-external are designed to be cnc'd or laser cut from 1.6mm sheet metal, which can potentially save on manufacturing costs compared to typical 3d cnc'd weights.
+- as with any gummy o-ring mount, plateless is not recommended.
+
 ## disclaimer
 I do not sell any products, and I am not affiliated with any vendors who claim to sell my designs. if you choose to support these vendors, I am not responsible for any issues you may encounter with them.
 
